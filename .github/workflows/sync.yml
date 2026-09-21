@@ -12,8 +12,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 env:
   PYTHONUNBUFFERED: "1"
@@ -69,15 +67,3 @@ jobs:
             git commit -m "Atualizar playlists automaticamente"
             git push
           fi
-
-      - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Preparar artefato do Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
-      - name: Publicar no GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
