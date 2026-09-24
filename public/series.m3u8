@@ -2,19 +2,19 @@
 #PLAYLIST-TYPE:VOD
 # Generated automatically from https://redecanaistv.app/
 
-#EXTINF:-1 tvg-id="amc" tvg-name="Amc" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTczMzVfZXBnLmpwZw==",Amc
+#EXTINF:-1 tvg-id="amc" tvg-name="Amc" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDI2NjQ0Ml9lcGcuanBn",Amc
 https://rdcanais.net/amc
 
 #EXTINF:-1 tvg-id="axn" tvg-name="Axn" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNDA3ODdfZXBnLmpwZw==",Axn
 https://rdcanais.net/axn
 
-#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTIyNjAwNV9lcGcuanBn",Canal Brasil
+#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTA4MzA3OF9lcGcuanBn",Canal Brasil
 https://rdcanais.net/canalbrasil
 
-#EXTINF:-1 tvg-id="discovery-id" tvg-name="Discovery Id" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDYwMjY1Ml9lcGcuanBn",Discovery Id
+#EXTINF:-1 tvg-id="discovery-id" tvg-name="Discovery Id" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTMyODlfZXBnLmpwZw==",Discovery Id
 https://rdcanais.net/discoveryid
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTY4ODNfZXBnLmpwZw==",Lifetime
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDYxNTY4OF9lcGcuanBn",Lifetime
 https://rdcanais.net/lifetime
 
 #EXTINF:-1 tvg-id="sony-channel" tvg-name="Sony Channel" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzUzNTRfZXBnLmpwZw==",Sony Channel
@@ -26,5 +26,5 @@ https://rdcanais.net/universaltv
 #EXTINF:-1 tvg-id="usa" tvg-name="Usa" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODc5NTFfZXBnLmpwZw==",Usa
 https://rdcanais.net/usa
 
-#EXTINF:-1 tvg-id="warner-tv" tvg-name="Warner Tv" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTYyNDZfZXBnLmpwZw==",Warner Tv
+#EXTINF:-1 tvg-id="warner-tv" tvg-name="Warner Tv" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNTAwMjBfZXBnLmpwZw==",Warner Tv
 https://rdcanais.net/warnertv

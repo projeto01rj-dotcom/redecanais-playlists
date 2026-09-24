@@ -2,28 +2,28 @@
 #PLAYLIST-TYPE:VOD
 # Generated automatically from https://redecanaistv.app/
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTIyMjIwMF9lcGcuanBn",Cinemax
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDQxNDAxMF9lcGcuanBn",Cinemax
 https://rdcanais.net/cinemax
 
-#EXTINF:-1 tvg-id="hbo-2" tvg-name="Hbo 2" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTI5MDY0NV9lcGcuanBn",Hbo 2
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="Hbo 2" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTEyNDk2MF9lcGcuanBn",Hbo 2
 https://rdcanais.net/hbo2
 
-#EXTINF:-1 tvg-id="hbo-family" tvg-name="Hbo Family" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDczNjI4N19lcGcuanBn",Hbo Family
+#EXTINF:-1 tvg-id="hbo-family" tvg-name="Hbo Family" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDE1OTUxMl9lcGcuanBn",Hbo Family
 https://rdcanais.net/hbofamily
 
-#EXTINF:-1 tvg-id="hbo-pop" tvg-name="Hbo Pop" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM5NjkzMV9lcGcuanBn",Hbo Pop
+#EXTINF:-1 tvg-id="hbo-pop" tvg-name="Hbo Pop" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDA2MjAxMV9lcGcuanBn",Hbo Pop
 https://rdcanais.net/hbopop
 
-#EXTINF:-1 tvg-id="hbo-signature" tvg-name="Hbo Signature" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDg5MDE5MF9lcGcuanBn",Hbo Signature
+#EXTINF:-1 tvg-id="hbo-signature" tvg-name="Hbo Signature" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTEyMTAwMl9lcGcuanBn",Hbo Signature
 https://rdcanais.net/hbosignature
 
-#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="Hbo Xtreme" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDcxMzAzOF9lcGcuanBn",Hbo Xtreme
+#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="Hbo Xtreme" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTMyOTY4MV9lcGcuanBn",Hbo Xtreme
 https://rdcanais.net/hboxtreme
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="Hbo+" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDk3Mzk0Nl9lcGcuanBn",Hbo+
+#EXTINF:-1 tvg-id="hbo" tvg-name="Hbo+" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDA3MjA0MV9lcGcuanBn",Hbo+
 https://rdcanais.net/hboplus
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDk2NTE3OF9lcGcuanBn",Megapix
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc4MDQ4M19lcGcuanBn",Megapix
 https://rdcanais.net/megapix
 
 #EXTINF:-1 tvg-id="sony-movies" tvg-name="Sony Movies" group-title="Filmes" tvg-logo="https://cdn.reidoscanais.st/imagens/sonymovies.png",Sony Movies
@@ -35,29 +35,29 @@ https://rdcanais.net/space
 #EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTU3NjFfZXBnLmpwZw==",Studio Universal
 https://rdcanais.net/studiouniversal
 
-#EXTINF:-1 tvg-id="telecine-action" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDcyMjYzNV9lcGcuanBn",Telecine Action
+#EXTINF:-1 tvg-id="telecine-action" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM4NDU2M19lcGcuanBn",Telecine Action
 https://rdcanais.net/telecineaction
 
-#EXTINF:-1 tvg-id="telecine-cult" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc3MzAxNl9lcGcuanBn",Telecine Cult
+#EXTINF:-1 tvg-id="telecine-cult" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM1Njc2N19lcGcuanBn",Telecine Cult
 https://rdcanais.net/telecinecult
 
-#EXTINF:-1 tvg-id="telecine-fun" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc1Njg3OF9lcGcuanBn",Telecine Fun
+#EXTINF:-1 tvg-id="telecine-fun" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDk5ODg5Ml9lcGcuanBn",Telecine Fun
 https://rdcanais.net/telecinefun
 
-#EXTINF:-1 tvg-id="telecine-pipoca" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTMzMzkyNV9lcGcuanBn",Telecine Pipoca
+#EXTINF:-1 tvg-id="telecine-pipoca" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc0NTQwMV9lcGcuanBn",Telecine Pipoca
 https://rdcanais.net/telecinepipoca
 
-#EXTINF:-1 tvg-id="telecine-premium" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTI5MTE5M19lcGcuanBn",Telecine Premium
+#EXTINF:-1 tvg-id="telecine-premium" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDk5Nzc0NF9lcGcuanBn",Telecine Premium
 https://rdcanais.net/telecinepremium
 
-#EXTINF:-1 tvg-id="telecine-touch" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM5ODQ4Nl9lcGcuanBn",Telecine Touch
+#EXTINF:-1 tvg-id="telecine-touch" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTQwMTkwMV9lcGcuanBn",Telecine Touch
 https://rdcanais.net/telecinetouch
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="Tnt" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTI0MzU3NF9lcGcuanBn",Tnt
+#EXTINF:-1 tvg-id="tnt" tvg-name="Tnt" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDkyNzM3OF9lcGcuanBn",Tnt
 https://rdcanais.net/tnt
 
-#EXTINF:-1 tvg-id="tnt-novelas" tvg-name="Tnt Novelas" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTI2NjJfZXBnLmpwZw==",Tnt Novelas
+#EXTINF:-1 tvg-id="tnt-novelas" tvg-name="Tnt Novelas" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTM4OTdfZXBnLmpwZw==",Tnt Novelas
 https://rdcanais.net/tntnovelas
 
-#EXTINF:-1 tvg-id="tnt-series" tvg-name="Tnt Series" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwMzY3MDdfZXBnLmpwZw==",Tnt Series
+#EXTINF:-1 tvg-id="tnt-series" tvg-name="Tnt Series" group-title="Filmes" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNTA2MjVfZXBnLmpwZw==",Tnt Series
 https://rdcanais.net/tntseries
