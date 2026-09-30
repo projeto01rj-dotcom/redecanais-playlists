@@ -8,7 +8,7 @@ https://rdcanais.net/amc
 #EXTINF:-1 tvg-id="axn" tvg-name="Axn" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNjE4OTdfZXBnLmpwZw==",Axn
 https://rdcanais.net/axn
 
-#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTcxMDRfZXBnLmpwZw==",Canal Brasil
+#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDcyMzU1MV9lcGcuanBn",Canal Brasil
 https://rdcanais.net/canalbrasil
 
 #EXTINF:-1 tvg-id="discovery-id" tvg-name="Discovery Id" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzI2MTdfZXBnLmpwZw==",Discovery Id
@@ -26,5 +26,5 @@ https://rdcanais.net/universaltv
 #EXTINF:-1 tvg-id="usa" tvg-name="Usa" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODc5NTFfZXBnLmpwZw==",Usa
 https://rdcanais.net/usa
 
-#EXTINF:-1 tvg-id="warner-tv" tvg-name="Warner Tv" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTYyNDZfZXBnLmpwZw==",Warner Tv
+#EXTINF:-1 tvg-id="warner-tv" tvg-name="Warner Tv" group-title="Séries" tvg-logo="https://api.reidoscanais.st/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTA1NjYzN19lcGcuanBn",Warner Tv
 https://rdcanais.net/warnertv
