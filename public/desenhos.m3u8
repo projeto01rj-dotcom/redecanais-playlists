@@ -3,42 +3,42 @@
 # Generated automatically from https://redecanaistv.app/
 
 #EXTINF:-1 tvg-id="24h-chaves" tvg-name="24H Chaves" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Chaves
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/da53f99fa762e8a8715e416f713ae4ed/24h_chaves.m3u8
 
 #EXTINF:-1 tvg-id="24h-dragon-ball-z" tvg-name="24H Dragon Ball Z" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Dragon Ball Z
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/d0449f83f879e458ace7a8fcacc975f9/24h_dragonball.m3u8
 
 #EXTINF:-1 tvg-id="24h-naruto-classico" tvg-name="24H Naruto Classico" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Naruto Classico
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/b1975d248c9d353741666d8259435a60/24h_naruto.m3u8
 
 #EXTINF:-1 tvg-id="24h-os-simpsons" tvg-name="24H Os Simpsons" group-title="Desenhos" tvg-logo="https://redecanaistv.live/wp-content/uploads/2026/09/47077-3840x2160-desktop-4k-the-simpsons-wallpaper-image-300x169-1.jpg",24H Os Simpsons
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/2fb1b065d7c66a40d2ea54b292eb9ce9/24h_simpsons.m3u8
 
 #EXTINF:-1 tvg-id="24h-pica-pau" tvg-name="24H Pica Pau" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Pica Pau
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/498175b5f2a8123ae1e8e434e6d7c904/24h_picapau.m3u8
 
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTM3NjRfZXBnLmpwZw==",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzUwNTJfZXBnLmpwZw==",Cartoon Network
 https://rdcanais.org/cartoonnetwork
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTc2MTFfZXBnLmpwZw==",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDkyODdfZXBnLmpwZw==",Cartoonito
 https://rdcanais.org/cartoonito
 
-#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTE4MjVfZXBnLmpwZw==",Discovery Kids
+#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTYyNTBfZXBnLmpwZw==",Discovery Kids
 https://rdcanais.org/discoverykids
 
 #EXTINF:-1 tvg-id="disney-plus-1" tvg-name="Disney Plus 1" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/disneyplus.png",Disney Plus 1
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/eef200368fa520271be518378f249311/disneyplus1.m3u8
 
 #EXTINF:-1 tvg-id="disney-plus-2" tvg-name="Disney Plus 2" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/disneyplus.png",Disney Plus 2
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/87fe2e5185090e97d0d4585d73d62e7c/disneyplus2.m3u8
 
 #EXTINF:-1 tvg-id="disney-plus-3" tvg-name="Disney Plus 3" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/disneyplus.png",Disney Plus 3
-https://live-chunks.mediacdn.net/v1/manifest/763.m3u8?key=p0o9i8u7y6t5r4e3
+https://40bbd8a95d080fec59c9dbaa31e4f533.s24-cloudfront-net.lat/stream/ddfe75a87d5d6640278845de068729ff/disneyplus3.m3u8
 
 #EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzcwODVfZXBnLmpwZw==",Gloob
 https://rdcanais.org/gloob
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNDUyNTFfZXBnLmpwZw==",Gloobinho
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDY2NzVfZXBnLmpwZw==",Gloobinho
 https://rdcanais.org/gloobinho
 
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" group-title="Desenhos" tvg-logo="https://cdn.reidoscanais.si/imagens/tooncast.png",Tooncast
