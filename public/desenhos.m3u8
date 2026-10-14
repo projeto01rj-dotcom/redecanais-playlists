@@ -3,42 +3,42 @@
 # Generated automatically from https://redecanaistv.app/
 
 #EXTINF:-1 tvg-id="24h-chaves" tvg-name="24H Chaves" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Chaves
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/24h_chaves
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="24h-dragon-ball-z" tvg-name="24H Dragon Ball Z" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Dragon Ball Z
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/24h_dragonball
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="24h-naruto-classico" tvg-name="24H Naruto Classico" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Naruto Classico
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/24h_naruto
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="24h-os-simpsons" tvg-name="24H Os Simpsons" group-title="Desenhos" tvg-logo="https://redecanaistv.live/wp-content/uploads/2026/09/47077-3840x2160-desktop-4k-the-simpsons-wallpaper-image-300x169-1.jpg",24H Os Simpsons
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/24h_simpsons
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="24h-pica-pau" tvg-name="24H Pica Pau" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/24h.png",24H Pica Pau
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/24h_picapau
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzUwNTJfZXBnLmpwZw==",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzIzNjNfZXBnLmpwZw==",Cartoon Network
 https://rdcanais.org/cartoonnetwork
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDkyODdfZXBnLmpwZw==",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDgzNjVfZXBnLmpwZw==",Cartoonito
 https://rdcanais.org/cartoonito
 
-#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTYyNTBfZXBnLmpwZw==",Discovery Kids
+#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTY2NTNfZXBnLmpwZw==",Discovery Kids
 https://rdcanais.org/discoverykids
 
 #EXTINF:-1 tvg-id="disney-plus-1" tvg-name="Disney Plus 1" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/disneyplus.png",Disney Plus 1
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/disneyplus1
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="disney-plus-2" tvg-name="Disney Plus 2" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/disneyplus.png",Disney Plus 2
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/disneyplus2
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="disney-plus-3" tvg-name="Disney Plus 3" group-title="Desenhos" tvg-logo="https://img.faz-o-eli.online/disneyplus.png",Disney Plus 3
-https://1719f18a29ecc8d9591197583b564e5c.embedtv.lat/disneyplus3
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 
 #EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzcwODVfZXBnLmpwZw==",Gloob
 https://rdcanais.org/gloob
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDY2NzVfZXBnLmpwZw==",Gloobinho
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Desenhos" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTM5MjVfZXBnLmpwZw==",Gloobinho
 https://rdcanais.org/gloobinho
 
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" group-title="Desenhos" tvg-logo="https://cdn.reidoscanais.si/imagens/tooncast.png",Tooncast
