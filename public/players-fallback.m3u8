@@ -2,22 +2,22 @@
 #PLAYLIST-TYPE:VOD
 # Generated automatically from https://redecanaistv.app/
 
-#EXTINF:-1 tvg-id="adult-swim" tvg-name="Adult Swim" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAxNjU3N19lcGcuanBn",Adult Swim
+#EXTINF:-1 tvg-id="adult-swim" tvg-name="Adult Swim" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTc3NTNfZXBnLmpwZw==",Adult Swim
 https://rdcanais.org/adultswim
 
-#EXTINF:-1 tvg-id="ae" tvg-name="Ae" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODg3NzVfZXBnLmpwZw==",Ae
+#EXTINF:-1 tvg-id="ae" tvg-name="Ae" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDkzNjAzOF9lcGcuanBn",Ae
 https://rdcanais.org/ae
 
 #EXTINF:-1 tvg-id="agro" tvg-name="Agro+" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTUzMDE1OF9lcGcuanBn",Agro+
 https://rdcanais.org/agromais
 
-#EXTINF:-1 tvg-id="amc" tvg-name="Amc" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDQ2MTgyMF9lcGcuanBn",Amc
+#EXTINF:-1 tvg-id="amc" tvg-name="Amc" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTczMzVfZXBnLmpwZw==",Amc
 https://rdcanais.org/amc
 
 #EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODA2OTFfZXBnLmpwZw==",Animal Planet
 https://rdcanais.org/animalplanet
 
-#EXTINF:-1 tvg-id="arte1" tvg-name="Arte1" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNjk3MTlfZXBnLmpwZw==",Arte1
+#EXTINF:-1 tvg-id="arte1" tvg-name="Arte1" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5NjY2OF9lcGcuanBn",Arte1
 https://rdcanais.org/arte1
 
 #EXTINF:-1 tvg-id="axn" tvg-name="Axn" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNDA3ODdfZXBnLmpwZw==",Axn
@@ -26,22 +26,22 @@ https://rdcanais.org/axn
 #EXTINF:-1 tvg-id="band" tvg-name="Band" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzI2OThfZXBnLmpwZw==",Band
 https://rdcanais.org/band
 
-#EXTINF:-1 tvg-id="band-news" tvg-name="Band News" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODIxMTlfZXBnLmpwZw==",Band News
+#EXTINF:-1 tvg-id="band-news" tvg-name="Band News" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTkxNjRfZXBnLmpwZw==",Band News
 https://rdcanais.org/bandnews
 
-#EXTINF:-1 tvg-id="bis" tvg-name="Bis" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5NzUyOV9lcGcuanBn",Bis
+#EXTINF:-1 tvg-id="bis" tvg-name="Bis" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzM5MzBfZXBnLmpwZw==",Bis
 https://rdcanais.org/bis
 
-#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTIzMTU5OF9lcGcuanBn",Canal Brasil
+#EXTINF:-1 tvg-id="canal-brasil" tvg-name="Canal Brasil" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTA5MDA2MV9lcGcuanBn",Canal Brasil
 https://rdcanais.org/canalbrasil
 
-#EXTINF:-1 tvg-id="canal-off" tvg-name="Canal Off" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTYwMTdfZXBnLmpwZw==",Canal Off
+#EXTINF:-1 tvg-id="canal-off" tvg-name="Canal Off" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTg3MjRfZXBnLmpwZw==",Canal Off
 https://rdcanais.org/canaloff
 
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzIzNjNfZXBnLmpwZw==",Cartoon Network
 https://rdcanais.org/cartoonnetwork
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDgzNjVfZXBnLmpwZw==",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDY2MDRfZXBnLmpwZw==",Cartoonito
 https://rdcanais.org/cartoonito
 
 #EXTINF:-1 tvg-id="caze-tv" tvg-name="Caze Tv" group-title="Players (fallback)" tvg-logo="https://cdn.reidoscanais.si/imagens/cazetv.webp",Caze Tv
@@ -53,19 +53,19 @@ https://rdcanais.org/cazetv2
 #EXTINF:-1 tvg-id="caze-tv-3" tvg-name="Caze Tv 3" group-title="Players (fallback)" tvg-logo="https://cdn.reidoscanais.si/imagens/cazetv.webp",Caze Tv 3
 https://rdcanais.org/cazetv3
 
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTQ1NjIxNV9lcGcuanBn",Cinemax
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc1NDI1Nl9lcGcuanBn",Cinemax
 https://rdcanais.org/cinemax
 
 #EXTINF:-1 tvg-id="cnn-brasil" tvg-name="Cnn Brasil" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDU3MjNfZXBnLmpwZw==",Cnn Brasil
 https://rdcanais.org/cnnbrasil
 
-#EXTINF:-1 tvg-id="combate" tvg-name="Combate" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDY4NjMyOV9lcGcuanBn",Combate
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTAyNjFfZXBnLmpwZw==",Combate
 https://rdcanais.org/combate
 
-#EXTINF:-1 tvg-id="curta" tvg-name="Curta!" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTIxNzJfZXBnLmpwZw==",Curta!
+#EXTINF:-1 tvg-id="curta" tvg-name="Curta!" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDM1MzQ0Ml9lcGcuanBn",Curta!
 https://rdcanais.org/curta
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODI2NDlfZXBnLmpwZw==",Discovery Channel
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTQ0OTVfZXBnLmpwZw==",Discovery Channel
 https://rdcanais.org/discoverychannel
 
 #EXTINF:-1 tvg-id="discovery-home-e-health" tvg-name="Discovery Home E Health" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTg5MTJfZXBnLmpwZw==",Discovery Home E Health
@@ -80,28 +80,28 @@ https://rdcanais.org/discoverykids
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODI2NTVfZXBnLmpwZw==",Discovery Science
 https://rdcanais.org/discoveryscience
 
-#EXTINF:-1 tvg-id="discovery-theater" tvg-name="Discovery Theater" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNjkyNTBfZXBnLmpwZw==",Discovery Theater
+#EXTINF:-1 tvg-id="discovery-theater" tvg-name="Discovery Theater" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzYyMDdfZXBnLmpwZw==",Discovery Theater
 https://rdcanais.org/discoverytheater
 
-#EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzYxNDVfZXBnLmpwZw==",Discovery Turbo
+#EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDg1NzBfZXBnLmpwZw==",Discovery Turbo
 https://rdcanais.org/discoveryturbo
 
 #EXTINF:-1 tvg-id="discovery-world" tvg-name="Discovery World" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTYyMTRfZXBnLmpwZw==",Discovery World
 https://rdcanais.org/discoveryworld
 
-#EXTINF:-1 tvg-id="e" tvg-name="E!" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODczMDBfZXBnLmpwZw==",E!
+#EXTINF:-1 tvg-id="e" tvg-name="E!" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTEzODdfZXBnLmpwZw==",E!
 https://rdcanais.org/e
 
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion Tv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDkzMTU0MF9lcGcuanBn",Fashion Tv
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion Tv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTk0NDhfZXBnLmpwZw==",Fashion Tv
 https://rdcanais.org/fashiontv
 
 #EXTINF:-1 tvg-id="fish-tv" tvg-name="Fish Tv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5ODI2MV9lcGcuanBn",Fish Tv
 https://rdcanais.org/fishtv
 
-#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzk1NTJfZXBnLmpwZw==",Food Network
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODIzODBfZXBnLmpwZw==",Food Network
 https://rdcanais.org/foodnetwork
 
-#EXTINF:-1 tvg-id="futura" tvg-name="Futura" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNjk2NDNfZXBnLmpwZw==",Futura
+#EXTINF:-1 tvg-id="futura" tvg-name="Futura" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTM2NzVfZXBnLmpwZw==",Futura
 https://rdcanais.org/futura
 
 #EXTINF:-1 tvg-id="globo" tvg-name="Globo" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzU5MjFfZXBnLmpwZw==",Globo
@@ -116,28 +116,28 @@ https://rdcanais.org/globoplaynovelas
 #EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5ODkyNF9lcGcuanBn",Gloob
 https://rdcanais.org/gloob
 
-#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTM5MjVfZXBnLmpwZw==",Gloobinho
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDQ1MTdfZXBnLmpwZw==",Gloobinho
 https://rdcanais.org/gloobinho
 
 #EXTINF:-1 tvg-id="gnt" tvg-name="Gnt" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzY0MjhfZXBnLmpwZw==",Gnt
 https://rdcanais.org/gnt
 
-#EXTINF:-1 tvg-id="hbo-2" tvg-name="Hbo 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTQzNTE1MV9lcGcuanBn",Hbo 2
+#EXTINF:-1 tvg-id="hbo-2" tvg-name="Hbo 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDkwNzAwMl9lcGcuanBn",Hbo 2
 https://rdcanais.org/hbo2
 
-#EXTINF:-1 tvg-id="hbo-family" tvg-name="Hbo Family" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5NTk0M19lcGcuanBn",Hbo Family
+#EXTINF:-1 tvg-id="hbo-family" tvg-name="Hbo Family" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDE5MjM3MF9lcGcuanBn",Hbo Family
 https://rdcanais.org/hbofamily
 
-#EXTINF:-1 tvg-id="hbo-pop" tvg-name="Hbo Pop" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc3MTg5OF9lcGcuanBn",Hbo Pop
+#EXTINF:-1 tvg-id="hbo-pop" tvg-name="Hbo Pop" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDI1MjMwNF9lcGcuanBn",Hbo Pop
 https://rdcanais.org/hbopop
 
-#EXTINF:-1 tvg-id="hbo-signature" tvg-name="Hbo Signature" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDgzOTQzMV9lcGcuanBn",Hbo Signature
+#EXTINF:-1 tvg-id="hbo-signature" tvg-name="Hbo Signature" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU4MTg4NF9lcGcuanBn",Hbo Signature
 https://rdcanais.org/hbosignature
 
-#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="Hbo Xtreme" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTQyNjgxMl9lcGcuanBn",Hbo Xtreme
+#EXTINF:-1 tvg-id="hbo-xtreme" tvg-name="Hbo Xtreme" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDI4Mjg5OF9lcGcuanBn",Hbo Xtreme
 https://rdcanais.org/hboxtreme
 
-#EXTINF:-1 tvg-id="hbo" tvg-name="Hbo+" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAyMTU1Nl9lcGcuanBn",Hbo+
+#EXTINF:-1 tvg-id="hbo" tvg-name="Hbo+" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDMzODQ5OF9lcGcuanBn",Hbo+
 https://rdcanais.org/hboplus
 
 #EXTINF:-1 tvg-id="hgtv" tvg-name="Hgtv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwOTE5NTFfZXBnLmpwZw==",Hgtv
@@ -146,22 +146,22 @@ https://rdcanais.org/hgtv
 #EXTINF:-1 tvg-id="history" tvg-name="History" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNjI1MDBfZXBnLmpwZw==",History
 https://rdcanais.org/history
 
-#EXTINF:-1 tvg-id="history-2" tvg-name="History 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODIxMDdfZXBnLmpwZw==",History 2
+#EXTINF:-1 tvg-id="history-2" tvg-name="History 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDAyNzlfZXBnLmpwZw==",History 2
 https://rdcanais.org/history2
 
-#EXTINF:-1 tvg-id="jp-news" tvg-name="Jp News" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDUyMzBfZXBnLmpwZw==",Jp News
+#EXTINF:-1 tvg-id="jp-news" tvg-name="Jp News" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTEwMDdfZXBnLmpwZw==",Jp News
 https://rdcanais.org/jpnews
 
-#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTAzNjE3Ml9lcGcuanBn",Lifetime
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU3NDcyNl9lcGcuanBn",Lifetime
 https://rdcanais.org/lifetime
 
-#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTEzNTY0MF9lcGcuanBn",Megapix
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDcyMjQxM19lcGcuanBn",Megapix
 https://rdcanais.org/megapix
 
-#EXTINF:-1 tvg-id="modo-viagem" tvg-name="Modo Viagem" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMDkwNzBfZXBnLmpwZw==",Modo Viagem
+#EXTINF:-1 tvg-id="modo-viagem" tvg-name="Modo Viagem" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTA4ODBfZXBnLmpwZw==",Modo Viagem
 https://rdcanais.org/modoviagem
 
-#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTA0Njc1NV9lcGcuanBn",Multishow
+#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTk0MzRfZXBnLmpwZw==",Multishow
 https://rdcanais.org/multishow
 
 #EXTINF:-1 tvg-id="paramount" tvg-name="Paramount+" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTAxODIwNV9lcGcuanBn",Paramount+
@@ -176,10 +176,10 @@ https://rdcanais.org/paramountplus3
 #EXTINF:-1 tvg-id="paramount-4" tvg-name="Paramount+ 4" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTAxODIwNV9lcGcuanBn",Paramount+ 4
 https://rdcanais.org/paramountplus4
 
-#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3MjM0N19lcGcuanBn",Premiere
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU2MzcxM19lcGcuanBn",Premiere
 https://rdcanais.org/premiereclubes
 
-#EXTINF:-1 tvg-id="premiere-2" tvg-name="Premiere 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5Njc1MF9lcGcuanBn",Premiere 2
+#EXTINF:-1 tvg-id="premiere-2" tvg-name="Premiere 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU4MjI3OF9lcGcuanBn",Premiere 2
 https://rdcanais.org/premiere2
 
 #EXTINF:-1 tvg-id="premiere-3" tvg-name="Premiere 3" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU4MjI4MV9lcGcuanBn",Premiere 3
@@ -191,7 +191,7 @@ https://rdcanais.org/premiere4
 #EXTINF:-1 tvg-id="premiere-5" tvg-name="Premiere 5" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU4MjI4OV9lcGcuanBn",Premiere 5
 https://rdcanais.org/premiere5
 
-#EXTINF:-1 tvg-id="premiere-6" tvg-name="Premiere 6" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5Njc1MF9lcGcuanBn",Premiere 6
+#EXTINF:-1 tvg-id="premiere-6" tvg-name="Premiere 6" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDk5Njk5M19lcGcuanBn",Premiere 6
 https://rdcanais.org/premiere6
 
 #EXTINF:-1 tvg-id="premiere-7" tvg-name="Premiere 7" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU4MjI5NF9lcGcuanBn",Premiere 7
@@ -221,16 +221,16 @@ https://rdcanais.org/sonymovies
 #EXTINF:-1 tvg-id="space" tvg-name="Space" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwMjY2NDNfZXBnLmpwZw==",Space
 https://rdcanais.org/space
 
-#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU4MjcwMF9lcGcuanBn",Sportv
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU1NjgwN19lcGcuanBn",Sportv
 https://rdcanais.org/sportv
 
-#EXTINF:-1 tvg-id="sportv-2" tvg-name="Sportv 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3MTY2MV9lcGcuanBn",Sportv 2
+#EXTINF:-1 tvg-id="sportv-2" tvg-name="Sportv 2" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTUzMTU0Ml9lcGcuanBn",Sportv 2
 https://rdcanais.org/sportv2
 
 #EXTINF:-1 tvg-id="sportv-3" tvg-name="Sportv 3" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3MDY3MV9lcGcuanBn",Sportv 3
 https://rdcanais.org/sportv3
 
-#EXTINF:-1 tvg-id="sportynet" tvg-name="Sportynet" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3MjMwMl9lcGcuanBn",Sportynet
+#EXTINF:-1 tvg-id="sportynet" tvg-name="Sportynet" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3NTA1Ml9lcGcuanBn",Sportynet
 https://rdcanais.org/sportynet
 
 #EXTINF:-1 tvg-id="sportynet-1" tvg-name="Sportynet+ 1" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM1MDQ4NF9lcGcuanBn",Sportynet+ 1
@@ -242,37 +242,37 @@ https://rdcanais.org/sportynetplus2
 #EXTINF:-1 tvg-id="sportynet-3" tvg-name="Sportynet+ 3" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM1MDQ4NF9lcGcuanBn",Sportynet+ 3
 https://rdcanais.org/sportynetplus3
 
-#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDc5NTE0OF9lcGcuanBn",Studio Universal
+#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU2MTMyN19lcGcuanBn",Studio Universal
 https://rdcanais.org/studiouniversal
 
-#EXTINF:-1 tvg-id="telecine-action" tvg-name="Telecine Action" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDg0MTU3NF9lcGcuanBn",Telecine Action
+#EXTINF:-1 tvg-id="telecine-action" tvg-name="Telecine Action" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDgzNzkwMV9lcGcuanBn",Telecine Action
 https://rdcanais.org/telecineaction
 
-#EXTINF:-1 tvg-id="telecine-cult" tvg-name="Telecine Cult" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDcyMzMxN19lcGcuanBn",Telecine Cult
+#EXTINF:-1 tvg-id="telecine-cult" tvg-name="Telecine Cult" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDg2ODM3M19lcGcuanBn",Telecine Cult
 https://rdcanais.org/telecinecult
 
-#EXTINF:-1 tvg-id="telecine-fun" tvg-name="Telecine Fun" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDg2MDE2MV9lcGcuanBn",Telecine Fun
+#EXTINF:-1 tvg-id="telecine-fun" tvg-name="Telecine Fun" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTA4OTk3NV9lcGcuanBn",Telecine Fun
 https://rdcanais.org/telecinefun
 
-#EXTINF:-1 tvg-id="telecine-pipoca" tvg-name="Telecine Pipoca" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM4OTQ5NF9lcGcuanBn",Telecine Pipoca
+#EXTINF:-1 tvg-id="telecine-pipoca" tvg-name="Telecine Pipoca" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTQxNTM3Ml9lcGcuanBn",Telecine Pipoca
 https://rdcanais.org/telecinepipoca
 
-#EXTINF:-1 tvg-id="telecine-premium" tvg-name="Telecine Premium" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM4MzI5Ml9lcGcuanBn",Telecine Premium
+#EXTINF:-1 tvg-id="telecine-premium" tvg-name="Telecine Premium" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDgwNjY0MV9lcGcuanBn",Telecine Premium
 https://rdcanais.org/telecinepremium
 
-#EXTINF:-1 tvg-id="telecine-touch" tvg-name="Telecine Touch" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDcyNDA1NF9lcGcuanBn",Telecine Touch
+#EXTINF:-1 tvg-id="telecine-touch" tvg-name="Telecine Touch" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTM2MjMwNV9lcGcuanBn",Telecine Touch
 https://rdcanais.org/telecinetouch
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="Tlc" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNjY1ODVfZXBnLmpwZw==",Tlc
 https://rdcanais.org/tlc
 
-#EXTINF:-1 tvg-id="tnt" tvg-name="Tnt" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDgzNzAxNl9lcGcuanBn",Tnt
+#EXTINF:-1 tvg-id="tnt" tvg-name="Tnt" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDczNjI3N19lcGcuanBn",Tnt
 https://rdcanais.org/tnt
 
 #EXTINF:-1 tvg-id="tnt-novelas" tvg-name="Tnt Novelas" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAxMTI2NjJfZXBnLmpwZw==",Tnt Novelas
 https://rdcanais.org/tntnovelas
 
-#EXTINF:-1 tvg-id="tnt-series" tvg-name="Tnt Series" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzAwMTFfZXBnLmpwZw==",Tnt Series
+#EXTINF:-1 tvg-id="tnt-series" tvg-name="Tnt Series" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODYwMzRfZXBnLmpwZw==",Tnt Series
 https://rdcanais.org/tntseries
 
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" group-title="Players (fallback)" tvg-logo="https://cdn.reidoscanais.si/imagens/tooncast.png",Tooncast
@@ -293,11 +293,11 @@ https://rdcanais.org/universaltv
 #EXTINF:-1 tvg-id="usa" tvg-name="Usa" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODc5NTFfZXBnLmpwZw==",Usa
 https://rdcanais.org/usa
 
-#EXTINF:-1 tvg-id="warner-tv" tvg-name="Warner Tv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODE3MjJfZXBnLmpwZw==",Warner Tv
+#EXTINF:-1 tvg-id="warner-tv" tvg-name="Warner Tv" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwODc0MzdfZXBnLmpwZw==",Warner Tv
 https://rdcanais.org/warnertv
 
-#EXTINF:-1 tvg-id="woohoo" tvg-name="Woohoo" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDAwMDAwNzcxMDFfZXBnLmpwZw==",Woohoo
+#EXTINF:-1 tvg-id="woohoo" tvg-name="Woohoo" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMDU5ODMxNV9lcGcuanBn",Woohoo
 https://rdcanais.org/woohoo
 
-#EXTINF:-1 tvg-id="xsports" tvg-name="Xsports" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3NTQyM19lcGcuanBn",Xsports
+#EXTINF:-1 tvg-id="xsports" tvg-name="Xsports" group-title="Players (fallback)" tvg-logo="https://api.reidoscanais.si/img/aHR0cHM6Ly9maDFpMmozazRsNW1kZ3IuY2xhcm9jZG4uY29tLmJyL2ltYWdlc19lcGcve3tpbWFnZS1zaXplLXBsYWNlaG9sZGVyfX0vMDAwMTU3NTQyN19lcGcuanBn",Xsports
 https://rdcanais.org/xsports
